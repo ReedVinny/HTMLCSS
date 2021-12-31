@@ -1,0 +1,48 @@
+.intro {
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("software-hero.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 10px;
+}
+
+#in {
+    text-align: left;
+}
+
+#reed {
+    height: 330px;
+    width: 200px;
+    border: 5px solid #555;
+}
+
+.topnav {
+    background-color: black
+}
+
+.topnav a {
+    float: left;
+    color: black;
+    background-color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
